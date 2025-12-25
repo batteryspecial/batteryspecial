@@ -1,5 +1,5 @@
 ## Hello 👋
-I'm Qinkai, a Software Engineering student at the University of Waterloo.<br>
+I'm Qinkai, a first-year Software Engineering student at the University of Waterloo.<br>
 I'm not really good at coding, but I can figure things out (trust the process 😅😅😅).
 
 ## About Me
