@@ -8,10 +8,4 @@ I'm not really good at coding, but I can figure things out (trust the process ðŸ
 - I continued web development (eg. [Chinook Curiosity Central](https://chinookcuriositycentral.vercel.app/), which I co-founded in 2023) and physics research from 2024-2025.
 - In 2025-2026 (right now) I'm still learning and building (CampusYap, QED, research, etc.).
 
-I'm still jobless... but that might change.
-
-### What is battery special?
-
-The best team building exercise. <br>
-Relics on! <br>
-Relics off! <br>
+I'm still jobless... but that might change soon.
