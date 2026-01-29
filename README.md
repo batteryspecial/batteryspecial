@@ -1,11 +1,36 @@
-## Hello 👋
-I'm Qinkai, a first-year Software Engineering student at the University of Waterloo.<br>
-I'm not really good at coding, but I can figure things out (trust the process 😅😅😅).
+## 👋 Hi, I'm Qinkai
 
-## About Me
-- I started growing interests in programming (Connect 4 AI) and bio research (iGEM) in middle school, although I spent most of my time running [dungeons](https://sky.shiiyu.moe/stats/notsoSwifyte/Grapes).
-- In 2023 and 2024, I won my first [hackathons](https://www.linkedin.com/posts/theknowledgesociety_tks-students-competed-at-the-energy-disruptors-activity-7247957453475082241-Gpbv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDyYIEBU0w4I5Vy9xrSd8H9UCZCAJ_mG7g), and finally decided to shift focus. A turning point.
-- I continued web development (eg. [Chinook Curiosity Central](https://chinookcuriositycentral.vercel.app/), which I co-founded in 2023) and physics research from 2024-2025.
-- In 2025-2026 (right now) I'm still learning and building (CampusYap, QED, research, etc.).
+I'm a first-year Software Engineering student at the University of Waterloo who enjoys building things, figuring problems out, and learning by doing.
 
-I'm still jobless... but that might change soon.
+I don’t claim to know everything — but I’m comfortable diving into unfamiliar systems, debugging my way through them, and shipping working solutions.
+
+---
+
+## 🛠 What I’m Working On
+
+- Backend and full-stack projects (APIs, auth flows, databases)
+- Web-based tools and applications with real users
+- Research-driven software supporting bio and data-related work
+
+Recent projects include:
+- **CampusYap** – a location-aware campus discussion platform (Flask, SQLAlchemy)
+- **Q.E.D** – a LaTeX-enabled rich text editor (Next.js, Slate.js)
+- **Connect 4 AI** – a minimax-based game AI (Java)
+
+---
+
+## 🚀 Background
+
+My interest in programming started early through projects like a Connect 4 AI and iGEM-related research.  
+After competing in hackathons in 2023–2024, I shifted my focus toward building software more seriously.
+
+Since then, I’ve worked on:
+- Web development projects and startups
+- Engineering-focused student teams
+- Research environments where software supports real-world work
+
+I’m currently continuing to learn and build through coursework, projects, and research.
+
+---
+
+## 📫 Let’s Connect
