@@ -6,7 +6,7 @@ I don’t claim to know everything. I’m a lifelong learner who has always debu
 
 ## What I’m Working On
 
-- Backend and full-stack projects (backend)
+- Backend and full-stack projects (mainly backend)
 - Web-based tools and applications with real users
 - Research software supporting biomedical and data-related work
 
