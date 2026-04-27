@@ -1,22 +1,14 @@
 ## Hi, I'm Qinkai
 
-I'm a first-year Software Engineering student at the University of Waterloo.
-
-I don’t claim to know everything. I’m a lifelong learner who has always debugged my way through endless errors.
+I just finished my first-year as a Software Engineering student at the University of Waterloo. I’m a lifelong learner who has always debugged my way through endless errors.
 
 ## What I’m Working On
 
+- Applications with real-world implications
 - Backend and full-stack projects (mainly backend)
-- Web-based tools and applications with real users
-- Research software supporting biomedical and data-related work
+- Research supporting organic chemistry related work
 
-My interest in programming started early through projects like a Connect 4 AI and iGEM-related research.  
-After competing in hackathons in 2023–2024, I shifted my focus toward building software more seriously.
-
-Since then, I’ve worked on
-- Engineering-focused student teams
-- Web development projects and startups
-- Research environments where software supports real-world work
+I did a little bit of programming in middle school through projects like a Connect 4 AI and iGEM-related research. After competing in hackathons in 2023–2024, I shifted my focus toward building software more seriously.
 
 I’m currently continuing to learn and build through coursework, projects, and research.
 
