@@ -1,8 +1,8 @@
 
       <svg
         width="854"
-        height="300"
-        viewBox="0 0 854 300"
+        height="96"
+        viewBox="0 0 854 96"
         xmlns="http://www.w3.org/2000/svg"
       >
         <style>
@@ -11,7 +11,7 @@
     </style>
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 854 300"
+          viewBox="0 0 854 96"
         >
           <defs>
               <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
