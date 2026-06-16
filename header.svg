@@ -1,0 +1,252 @@
+<svg
+  width="854"
+  height="300"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  style="z-index:1;position:relative"
+  viewBox="0 0 854 300"
+>
+  <style>
+    .text {   font-size: 70px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  }
+    .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  }
+  </style>
+  <defs>
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#93c4c6"/><stop offset="100%" stop-color="#30b0b5"/>
+    </linearGradient>
+    <linearGradient id="banner" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0e5b5e"/><stop offset="100%" stop-color="#1f8a8d"/>
+    </linearGradient>
+  </defs>
+  
+
+  <circle
+    cx="50%"
+    cy="60%"
+    r="75"
+    fill="url(#linear)"
+    opacity="0.2"
+    transform="scale (-1, 1)" transform-origin="center"
+  >
+    <animate
+      attributeName="cx"
+      values="50%;50%;50%;50%;50%"
+      dur="4s"
+      begin="0s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+    />
+    <animate
+      attributeName="cy"
+      values="60%;60%;60%;60%;60%"
+      dur="4.8s"
+      begin="0s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+    />
+  </circle>
+
+  <circle
+    cx="45%"
+    cy="60%"
+    r="90"
+    fill="url(#linear)"
+    opacity="0.3"
+    transform="scale (-1, 1)" transform-origin="center"
+  >
+    <animate
+      attributeName="cx"
+      values="45%;50%;55%;50%;45%"
+      dur="12s"
+      begin="1s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+    />
+    <animate
+      attributeName="cy"
+      values="60%;60%;60%;60%;60%"
+      dur="14.4s"
+      begin="1s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+    />
+  </circle>
+
+  <circle
+    cx="60%"
+    cy="60%"
+    r="84.00000000000001"
+    fill="url(#linear)"
+    opacity="0.15"
+    transform="scale (-1, 1)" transform-origin="center"
+  >
+    <animate
+      attributeName="cx"
+      values="60%;50%;40%;50%;60%"
+      dur="6s"
+      begin="2s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+    />
+    <animate
+      attributeName="cy"
+      values="60%;60%;60%;60%;60%"
+      dur="7.2s"
+      begin="2s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+    />
+  </circle>
+
+  <circle
+    cx="30%"
+    cy="50%"
+    r="60"
+    fill="url(#linear)"
+    opacity="0.25"
+    transform="scale (-1, 1)" transform-origin="center"
+  >
+    <animate
+      attributeName="cx"
+      values="30%;40%;30%;20%;30%"
+      dur="5s"
+      begin="0.5s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+    />
+    <animate
+      attributeName="cy"
+      values="50%;65%;50%;35%;50%"
+      dur="5.6s"
+      begin="0.5s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+    />
+  </circle>
+
+  <circle
+    cx="70%"
+    cy="70%"
+    r="50"
+    fill="url(#linear)"
+    opacity="0.3"
+    transform="scale (-1, 1)" transform-origin="center"
+  >
+    <animate
+      attributeName="cx"
+      values="70%;80%;70%;60%;70%"
+      dur="4.5s"
+      begin="1.5s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+    />
+    <animate
+      attributeName="cy"
+      values="70%;55%;70%;85%;70%"
+      dur="5.2s"
+      begin="1.5s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+    />
+  </circle>
+
+  <circle
+    cx="85%"
+    cy="45%"
+    r="45"
+    fill="url(#linear)"
+    opacity="0.2"
+    transform="scale (-1, 1)" transform-origin="center"
+  >
+    <animate
+      attributeName="cx"
+      values="85%;75%;85%;90%;85%"
+      dur="5.5s"
+      begin="0.8s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+    />
+    <animate
+      attributeName="cy"
+      values="45%;35%;45%;60%;45%"
+      dur="6.2s"
+      begin="0.8s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+    />
+  </circle>
+
+  <circle
+    cx="15%"
+    cy="75%"
+    r="40"
+    fill="url(#linear)"
+    opacity="0.25"
+    transform="scale (-1, 1)" transform-origin="center"
+  >
+    <animate
+      attributeName="cx"
+      values="15%;25%;15%;10%;15%"
+      dur="4.2s"
+      begin="2.2s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+    />
+    <animate
+      attributeName="cy"
+      values="75%;85%;75%;65%;75%"
+      dur="4.9s"
+      begin="2.2s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+    />
+  </circle>
+
+  <circle
+    cx="50%"
+    cy="30%"
+    r="35"
+    fill="url(#linear)"
+    opacity="0.2"
+    transform="scale (-1, 1)" transform-origin="center"
+  >
+    <animate
+      attributeName="cx"
+      values="50%;55%;50%;45%;50%"
+      dur="3.8s"
+      begin="1.2s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+    />
+    <animate
+      attributeName="cy"
+      values="30%;40%;30%;25%;30%"
+      dur="4.4s"
+      begin="1.2s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+    />
+  </circle>
+
+  <polygon
+    points="0,0 854,0 854,20 0,30"
+    fill="url(#banner)"
+    opacity="0.55"
+  />
+</svg>
