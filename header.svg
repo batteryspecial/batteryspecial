@@ -1,10 +1,10 @@
 <svg
   width="854"
-  height="300"
+  height="140"
   xmlns="http://www.w3.org/2000/svg"
   xmlns:xlink="http://www.w3.org/1999/xlink"
   style="z-index:1;position:relative"
-  viewBox="0 0 854 300"
+  viewBox="0 0 854 140"
 >
   <style>
     .text {   font-size: 70px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  }
@@ -23,7 +23,7 @@
   <circle
     cx="50%"
     cy="60%"
-    r="75"
+    r="40"
     fill="url(#linear)"
     opacity="0.2"
     transform="scale (-1, 1)" transform-origin="center"
@@ -51,7 +51,7 @@
   <circle
     cx="45%"
     cy="60%"
-    r="90"
+    r="52"
     fill="url(#linear)"
     opacity="0.3"
     transform="scale (-1, 1)" transform-origin="center"
@@ -79,7 +79,7 @@
   <circle
     cx="60%"
     cy="60%"
-    r="84.00000000000001"
+    r="36"
     fill="url(#linear)"
     opacity="0.15"
     transform="scale (-1, 1)" transform-origin="center"
@@ -107,7 +107,7 @@
   <circle
     cx="30%"
     cy="50%"
-    r="60"
+    r="32"
     fill="url(#linear)"
     opacity="0.25"
     transform="scale (-1, 1)" transform-origin="center"
@@ -135,7 +135,7 @@
   <circle
     cx="70%"
     cy="70%"
-    r="50"
+    r="28"
     fill="url(#linear)"
     opacity="0.3"
     transform="scale (-1, 1)" transform-origin="center"
@@ -163,7 +163,7 @@
   <circle
     cx="85%"
     cy="45%"
-    r="45"
+    r="24"
     fill="url(#linear)"
     opacity="0.2"
     transform="scale (-1, 1)" transform-origin="center"
@@ -191,7 +191,7 @@
   <circle
     cx="15%"
     cy="75%"
-    r="40"
+    r="22"
     fill="url(#linear)"
     opacity="0.25"
     transform="scale (-1, 1)" transform-origin="center"
@@ -219,7 +219,7 @@
   <circle
     cx="50%"
     cy="30%"
-    r="35"
+    r="20"
     fill="url(#linear)"
     opacity="0.2"
     transform="scale (-1, 1)" transform-origin="center"
