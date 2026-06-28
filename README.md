@@ -12,9 +12,9 @@
 
 <h1>Hello! <img src="wave.svg" alt="Hand" style="height:1.3em;width:2.03125em;"></h1>
 
-I'm a student entering second-year software engineering at the University of Waterloo. Experienced in backend and security systems.
+I'm a student entering second-year software engineering at the University of Waterloo. Experienced in backend and security infrastructure.
 
-Currently a full-stack developer at Statsyuk Analytics. I'm developing everything from low-level infrastructure to high-level web apps. Also working on intuitive MCP applications in my free time.
+Currently a full-stack developer at Statsyuk Analytics. I'm developing everything from low-level systems to high-level web apps. Also working on intuitive agentic applications in my free time.
 
 Outside of development, I'm an enjoyer of the natural sciences and scientific research.
 
