@@ -14,7 +14,7 @@
 
 I'm a student entering second-year software engineering at the University of Waterloo. Experienced in backend and security infrastructure.
 
-Currently a full-stack developer at Statsyuk Analytics. I'm developing everything from low-level systems to high-level web apps. Also working on intuitive agentic applications in my free time.
+I just finished my first co-op as a full-stack developer at Statsyuk Analytics. I developed everything from low-level computer vision systems to high-level web apps. Also working on intuitive (agentic) applications in my free time.
 
 Outside of development, I'm an enjoyer of the natural sciences and scientific research.
 
