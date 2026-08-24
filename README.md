@@ -2,7 +2,7 @@
 <img src="name.svg" alt="Qinkai">
 
 <p align="center">
-  <a href="https://batteryspecial.vercel.app">
+  <a href="https://batteryspecial.xyz">
     <img src="https://img.shields.io/badge/Website-batteryspecial-teal" />
   </a>
   <a href="http://endless.horse">
